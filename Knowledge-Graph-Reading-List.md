@@ -15,15 +15,10 @@ Reading list about **knowledge graph** topic at KEG. Every paper here should hav
 
 ## Representation Learning ##
 
-[Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)
-
-[PyTorch-BigGraph: A Large-scale Graph Embedding System](https://arxiv.org/pdf/1903.12287v3.pdf) [(code)](https://github.com/facebookresearch/PyTorch-BigGraph)
-
-[Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/pdf/1707.01476v6.pdf) [(code)](https://github.com/TimDettmers/ConvE)
-
-[Canonical Tensor Decomposition for Knowledge Base Completion](https://arxiv.org/pdf/1806.07297v1.pdf) [(code)](https://github.com/facebookresearch/kbc)
-
-[Predicting Semantic Relations using Global Graph Properties](https://arxiv.org/pdf/1808.08644v1.pdf) [(code)](https://github.com/yuvalpinter/m3gm)
+- [NIPS 2013] Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran. Translating Embeddings for Modeling Multi-relational Data. [link](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)
+- [AAAI 2018] Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel. Convolutional 2D Knowledge Graph Embeddings. [link](https://arxiv.org/abs/1707.01476v6) [code](https://github.com/TimDettmers/ConvE)
+- [WWW 2019] Zhaocheng Zhu, Shizhen Xu, Meng Qu, Jian Tang. GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding. [link](https://arxiv.org/abs/1903.00757v1)
+- [ICLR 2019] Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. RotatE: Knowledge graph embedding by relational rotation in complex space. [link](https://arxiv.org/abs/1902.10197)
 
 ## Reasoning ##
 
