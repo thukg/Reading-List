@@ -4,3 +4,5 @@
 - [Reinforcement Learning](https://github.com/thukg/Reading-List/blob/master/Reinforcement-Learning-Reading-List.md)
 - [Crowdsourcing](https://github.com/thukg/Reading-List/blob/master/Crowdsourcing-Reading-List.md)
 - [Dataset](https://github.com/thukg/Reading-List/blob/master/Dataset-Reading-List.md)
+- [Question-Answering](https://github.com/thukg/Reading-List/blob/master/Question-Answering-Reading-List.md)
+
