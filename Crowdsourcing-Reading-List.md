@@ -9,3 +9,4 @@ Reading list about **crowdsourcing** topic at KEG. Every paper here should have 
 | VLDB 2011 | Adam Marcus, Eugene Wu, David Karger, Samuel Madden, Robert Miller | Human-powered Sorts and Joins                                |           [link](https://arxiv.org/abs/1109.6881)            |
 | IJMR 2018 | Antonio Ghezzi, Donata Gabelloni, Antonella Martini and Angelo Natalicchio | Crowdsourcing: A Review and Suggestions for Future Research  | [link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ijmr.12135) |
 | TKDE 2015 | Guoliang Li et al                                            | Crowdsourced Data Management: A Survey                       | [link](http://zhydhkcws.github.io/crowd_survey/tkde-crowd_survey.pdf) |
+| ICDE 2018 | Xiang Yu, Guoliang Li | CrowdOTA: An Online Task Assignment System in Crowdsourcing | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509414)
